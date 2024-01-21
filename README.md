@@ -1,47 +1,54 @@
-</h1> 
-<p align="center">To learn how to get session id tap link at page end..
- 
+
+## `STAR-MDX`
+<div align="left">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=60&pause=1000&color=fffx00&center=true&width=900&height=100&lines=Hey (*´∇`)ﾉ I'm STAR-MDX;Multi+Device+Whatsapp+Bot;Developed+By+EXCEL+AMADI" alt="Typing SVG" /></a>
+  
 
 
- It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
-<a href='https://chat.whatsapp.com/EjCevQuz0IBIlfUUYLPEB4' target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/OFFICIAL-GC-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
+
+
+</h2> 
+<p align="CENTER">𝐓𝐎 𝐋𝐄𝐀𝐑𝐍 𝐇𝐎𝐖 𝐓𝐎 𝐆𝐄𝐓
+𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐃
+<p align="CENTER">⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇
+
+<p align="CENTER">
+  <a href="https://github.com/Xcelsama/Excel_Tech_Info/blob/main/To%20get%20session%20id"><img title="Learn" src="https://img.shields.io/badge/learn-How-cyan.svg?style=for-the-badge&logo=xcode" /></a>
+</p>
 <p align="center">
   <a href="https://chat.whatsapp.com/ERYl3BYeDgj0xlZUssQI9p">
-    <img alt="Excel-MD V2" height="300" src="https://i.imgur.com/oNckzkC.jpg">
+    <img alt="Excel-MD V2" height="300" src="https://i.imgur.com/faNAZch.png">
   </a>
 </p>
-   <p align="center">
+      <p align="center">
   <a href="https://wa.me//+2347045035241" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a aria-label="Excel_Md is free to use" href="https://chat.whatsapp.com/ERYl3BYeDgj0xlZUssQI9p" target="_blank">
-    <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
-  </a>
-   <a aria-label="Excel-MdV2 is free to use" href="https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X" target="_blank">
-   </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{xcelsama}/count.svg" alt="xcelsama:: Visitor's Count" /></p>
+  <a aria-label="Excel_Md is free to use" href="https://chat.whatsapp.com/ERYl3BYeDgj0xlZUssQI9p" "target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/OFFICIAL-GC-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
 
-><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&pause=1000&color=DBEDF7&center=true&random=false&width=435&lines=EXCEL-MD-V2;MUTLI+FUNCTIONAL;WHATSAPP+BOT;MADE+BY;EXCEL+ Amadi." alt="Typing SVG" /></a>
-
-<p align="center">ℹ️ 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎
-  <a
- href="https://wa.me//+2347045035241"></a>
-</p>
+   
+ 
 <p align="center">
-  <img title="Whatsapp-Bot-Javascript" src="https://img.shields.io/badge/Whatsapp-363303?style=for-the-badge&logo=whatsapp&logoColor=c6c631"></img>
-<p align="center">
-
+<a href='https://chat.whatsapp.com/EjCevQuz0IBIlfUUYLPEB4' 
   <a aria-label="Join our chats" href="https://chat.whatsapp.com/ERYl3BYeDgj0xlZUssQI9p" target="_blank">
 
    <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<img alt="whatsapp" src="https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+  <a
+ href="https://wa.me//+2347045035241"></a>
+</p>
 
   </a>
 
 <a aria-label="Join our chats" href="https://wa.me/2347045035241?text=Hi!! Excel, I need Your Help" target="_blank">
+ <img alt="Excel-MD V2" height="300" src="https://telegra.ph/file/613e2c8b73b89072aaf0e.jpg">
+  </a>
+   
 
-   <img alt="whatsapp" src="https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-</p>
+ </a>
+   <a aria-label="Excel-MdV2 is free to use" href="https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X" target="_blank">
+ <p align="center"><img src="https://profile-counter.glitch.me/{xcelsama}/count.svg" alt="xcelsama:: Visitor's Count" /></p>
 
 
 
@@ -58,8 +65,7 @@ mongodb://usrdhz7ejxwayzvw69qm:fRuJImqP1BOZyGk9fD6@bupt7kruqljyivftjl4i-mongodb.
 
     
 ➤FORK THE REPOSITORY (Repo) 
-    <br>
-<a href="https://github.com/Xcelsama/Excel-MDX"><img title="Excel-MDX" src="https://img.shields.io/badge/FORK Excel-MD-V2?color=black&style=for-the-badge&logo=stackshare"></a>
+
 
 
 ➤  GET SESSION  ID FOR EXCEL-MDX
@@ -67,16 +73,18 @@ mongodb://usrdhz7ejxwayzvw69qm:fRuJImqP1BOZyGk9fD6@bupt7kruqljyivftjl4i-mongodb.
     pair May not work...under development 
 <a href='https://replit.com/@HopeAmadi/Excel-mdxpaircode' target="_blank"><img alt='Pair code' src='https://img.shields.io/badge/Pair-code-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
-<a href='https://replit.com/@HopeAmadi/EXCEL-MD-QR-SCAN-1?v=1' target="_blank"><img alt='SCAN QR-1' src='https://img.shields.io/badge/Scan_qr-1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
+<a href='https://replit.com/@HopeAmadi/EXCEL-MD-QR-SCAN-1?v=1/fork' target="_blank"><img alt='SCAN QR-1' src='https://img.shields.io/badge/Scan_qr-1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
 
 ＊DEPLOYMENT METHODS
 
-❍ᗪᗴᑭᒪOY  ᖴᖇᗴᗴ ᗯITᕼ ᑕOᗪᗴՏᑭᗩᑕᗴ
+❍ᗪᗴᑭᒪOY  ᖴᖇᗴᗴ ᗯITᕼ ᑕOᗪᗴՏᑭᗩᑕᗴ
+
 
 - If You don't have a account in Codespace. Create a account.
     <br>
-<a href='https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fcodespaces' target="_blank"><img alt='Codespaces' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=visualstudiocode' width="96.35" height="28"/></a></p>
+
+<a href='https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fcodespaces' target="_blank"><img alt='Codespaces' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=visualstudiocode' width="96.35" height="28"/></a></p>
 Now Deploy
     <br>
 <a href='https://cautious-goldfish-4j79j464wgxqhwpw.github.dev/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=visualstudiocode' width="96.35" height="28"/></a></p>
@@ -88,7 +96,8 @@ Now Deploy
 - If You don't have a account in replit. Create a account.
     <br>
 <a href='https://replit.com/signup' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=Replit' width="96.35" height="28"/></a></p>
-Now Deploy
+
+Now Deploy
     <br>
 <a href='https://replit.com/@HopeAmadi/EXCEL-MD-V2' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=Replit' width="96.35" height="28"/></a></p>'
 ❍ᗪᗴᑭᒪOY Oᑎ ᕼᗴᖇOKᑌ
@@ -101,4 +110,4 @@ If You don't have a account in Heroku. Create a account.
 <a href='https://dashboard.heroku.com/new?template=https://github.com/Xcelsama/Excel-MDX' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 ********************************************
-https://github.com/Xcelsama/Excel_Tech_Info
+Thanks for all your support💪
