@@ -34,6 +34,11 @@
 
    <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <img alt="whatsapp" src="https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+   <a aria-label="Excel-MdV2 is free to use" href="https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X" target="_blank">
+ <p align="center"><img src="https://profile-counter.glitch.me/{xcelsama}/count.svg" alt="xcelsama:: Visitor's Count" /></p>
+
+
 
   <a
  href="https://wa.me//+2347045035241"></a>
@@ -46,12 +51,7 @@
   </a>
    
 
- </a>
-   <a aria-label="Excel-MdV2 is free to use" href="https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X" target="_blank">
- <p align="center"><img src="https://profile-counter.glitch.me/{xcelsama}/count.svg" alt="xcelsama:: Visitor's Count" /></p>
-
-
-
+ 
 - Install [External Plugins](https://github.com/SamPandey001/Secktor-Plugins)
 ## Deployment Methods
 **If You Don't Have Any MongoDB Url Then, Use This Public one.!**
