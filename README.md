@@ -17,7 +17,7 @@
 </p>
 <p align="center">
   <a href="https://chat.whatsapp.com/ERYl3BYeDgj0xlZUssQI9p">
-    <img alt="Excel-MD V2" height="300" src="https://i.imgur.com/faNAZch.png">
+    <img alt="Excel-MD V2" height="300" src="https://telegra.ph/file/386d8619aec3a1d9e561b.jpg">
   </a>
 </p>
       <p align="center">
